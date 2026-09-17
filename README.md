@@ -93,7 +93,7 @@ Open-weight models on my own VPS, putting the calculation work above into conver
 
 ## Elsewhere
 
-Telescopes, Sanskrit read slowly, and an archive of Rajasthani folk music.
+Smile and wave boys, Just smile and wave.
 
 [Portfolio](https://alkesh-site.vercel.app) · [LinkedIn](https://linkedin.com/in/alkesh20011) · [Email](mailto:alkeshsingh.atg@gmail.com)
 
