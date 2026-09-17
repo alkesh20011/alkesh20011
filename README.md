@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/cosmos.svg" width="100%" alt="starfield"/>
+<img src="https://raw.githubusercontent.com/alkesh20011/alkesh20011/master/assets/cosmos.svg" width="100%" alt="starfield"/>
 
 # Alkesh Singh
 
@@ -83,15 +83,6 @@ Open-weight models on my own VPS, putting the calculation work above into conver
 ![Pandas](https://img.shields.io/badge/Pandas-1E1B2E?style=flat-square&logo=pandas&logoColor=A5B4FC)
 ![GraphQL](https://img.shields.io/badge/GraphQL-1E1B2E?style=flat-square&logo=graphql&logoColor=A5B4FC)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1E1B2E?style=flat-square&logo=tailwindcss&logoColor=A5B4FC)
-
-<br/>
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=alkesh20011&show_icons=true&hide_border=true&hide_title=true&bg_color=0D1117&icon_color=8B7FC7&text_color=8B949E&ring_color=8B7FC7" alt="GitHub stats"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkesh20011&layout=compact&hide_border=true&hide_title=true&bg_color=0D1117&text_color=8B949E" alt="Top languages"/>
-
-</div>
 
 <br/>
 
