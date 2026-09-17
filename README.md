@@ -8,10 +8,10 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=alkeshsingh&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alkeshsingh)
+![Profile Views](https://komarev.com/ghpvc/?username=alkesh20011&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alkesh20011)
 [![Portfolio](https://img.shields.io/badge/AetherOS-Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://alkesh-site.vercel.app)
-[![Email](https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alkeshsingh.atg@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alkesh20011.atg@gmail.com)
 
 </div>
 
@@ -121,12 +121,12 @@ Self-hosted astrological AI service running open-source LLM inference via Ollama
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alkeshsingh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkeshsingh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alkesh20011&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkesh20011&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alkeshsingh&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=EA580C&currStreakLabel=A78BFA"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alkesh20011&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=EA580C&currStreakLabel=A78BFA"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=alkeshsingh&theme=algolia&no-frame=true&margin-w=8&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=alkesh20011&theme=algolia&no-frame=true&margin-w=8&row=1&column=7"/>
 
 </div>
 
@@ -137,7 +137,7 @@ Self-hosted astrological AI service running open-source LLM inference via Ollama
 <div align="center">
 
 <!--START_SECTION:snake-->
-<img src="https://raw.githubusercontent.com/alkeshsingh/alkeshsingh/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation" />
+<img src="https://raw.githubusercontent.com/alkesh20011/alkesh20011/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation" />
 <!--END_SECTION:snake-->
 
 </div>
@@ -154,7 +154,7 @@ Self-hosted astrological AI service running open-source LLM inference via Ollama
 
 **Currently exploring:** distributed systems design · RAG pipelines · multi-agent orchestration
 
-[![GitHub followers](https://img.shields.io/github/followers/alkeshsingh?style=social)](https://github.com/alkeshsingh)
-[![GitHub stars](https://img.shields.io/github/stars/alkeshsingh?style=social)](https://github.com/alkeshsingh)
+[![GitHub followers](https://img.shields.io/github/followers/alkesh20011?style=social)](https://github.com/alkesh20011)
+[![GitHub stars](https://img.shields.io/github/stars/alkesh20011?style=social)](https://github.com/alkesh20011)
 
 </div>
