@@ -78,9 +78,9 @@
     <circle cx="96.0" cy="-0.7" r="9" fill="#e09a94" opacity="0.13"/>
     <circle cx="96.0" cy="-0.7" r="3.1" fill="#e09a94" opacity="0.95"><animate attributeName="opacity" values="0.95;0.55;0.95" dur="5s" repeatCount="indefinite"/></circle>
     <text x="96.0" y="-11.7" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="9.5" fill="#a49ad4">Ma</text>
-    <circle cx="88.5" cy="37.3" r="9" fill="#e4cf9a" opacity="0.13"/>
-    <circle cx="88.5" cy="37.3" r="3.1" fill="#e4cf9a" opacity="0.95"><animate attributeName="opacity" values="0.95;0.55;0.95" dur="5s" repeatCount="indefinite"/></circle>
-    <text x="88.5" y="26.3" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="9.5" fill="#a49ad4">Ju</text>
+    <circle cx="88.4" cy="37.3" r="9" fill="#e4cf9a" opacity="0.13"/>
+    <circle cx="88.4" cy="37.3" r="3.1" fill="#e4cf9a" opacity="0.95"><animate attributeName="opacity" values="0.95;0.55;0.95" dur="5s" repeatCount="indefinite"/></circle>
+    <text x="88.4" y="26.3" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="9.5" fill="#a49ad4">Ju</text>
     <circle cx="-19.4" cy="-94.0" r="9" fill="#a8a3c9" opacity="0.13"/>
     <circle cx="-19.4" cy="-94.0" r="3.1" fill="#a8a3c9" opacity="0.95"><animate attributeName="opacity" values="0.95;0.55;0.95" dur="5s" repeatCount="indefinite"/></circle>
     <text x="-19.4" y="-105.0" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="9.5" fill="#a49ad4">Sa</text>
@@ -95,7 +95,7 @@
   <g transform="translate(600,205)">
     <circle r="122" fill="url(#moonglow)"/>
     <circle r="58" fill="#151230" stroke="#2f2a55" stroke-width="1"/>
-    <g><path d="M 0 -58 A 58 58 0 0 1 0 58 A 11.94 58 0 0 0 0 -58 Z" fill="#e8ecff" opacity="0.93"/></g>
+    <g><path d="M 0 -58 A 58 58 0 0 1 0 58 A 11.91 58 0 0 0 0 -58 Z" fill="#e8ecff" opacity="0.93"/></g>
     <text x="0" y="84" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#bcb2f0">40% illuminated</text>
   </g>
   <text x="760" y="132" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="9" letter-spacing="2.4" fill="#544d80">TITHI</text>

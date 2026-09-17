@@ -7,7 +7,7 @@
     </linearGradient>
   </defs>
   <rect width="1200" height="260" fill="url(#card)"/>
-  <text x="150" y="92" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="46" font-weight="300" fill="#c3b9f2">19</text>
+  <text x="150" y="92" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="46" font-weight="300" fill="#c3b9f2">20</text>
   <text x="150" y="118" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="9.5" letter-spacing="2.2" fill="#5f558f">COMMITS THIS YEAR</text>
   <text x="450" y="92" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="46" font-weight="300" fill="#c3b9f2">5</text>
   <text x="450" y="118" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="9.5" letter-spacing="2.2" fill="#5f558f">REPOSITORIES</text>
