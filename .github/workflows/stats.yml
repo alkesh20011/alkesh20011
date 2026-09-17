@@ -1,0 +1,42 @@
+name: Render profile stats
+
+on:
+  schedule:
+    - cron: "17 3 * * *"      # daily, a little after 03:00 UTC
+  workflow_dispatch: {}
+  push:
+    branches: [master, main]
+    paths:
+      - "scripts/render_stats.py"
+      - ".github/workflows/stats.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Render stats card
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+        run: python scripts/render_stats.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [[ -n "$(git status --porcelain assets/stats.svg)" ]]; then
+            git add assets/stats.svg
+            git commit -m "Update stats card"
+            git push
+          else
+            echo "No change."
+          fi

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/alkesh20011/alkesh20011/master/assets/cosmos.svg" width="100%" alt="starfield"/>
+<img src="https://raw.githubusercontent.com/alkesh20011/alkesh20011/master/assets/cosmos.svg" width="100%" alt=""/>
 
 # Alkesh Singh
 
@@ -69,20 +69,18 @@ Open-weight models on my own VPS, putting the calculation work above into conver
 
 <br/>
 
-## Toolkit
+<div align="center">
 
-![Java](https://img.shields.io/badge/Java-1E1B2E?style=flat-square&logo=openjdk&logoColor=A5B4FC)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-1E1B2E?style=flat-square&logo=springboot&logoColor=A5B4FC)
-![Python](https://img.shields.io/badge/Python-1E1B2E?style=flat-square&logo=python&logoColor=A5B4FC)
-![JavaScript](https://img.shields.io/badge/JavaScript-1E1B2E?style=flat-square&logo=javascript&logoColor=A5B4FC)
-![PHP](https://img.shields.io/badge/PHP-1E1B2E?style=flat-square&logo=php&logoColor=A5B4FC)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E1B2E?style=flat-square&logo=postgresql&logoColor=A5B4FC)
-![AWS](https://img.shields.io/badge/AWS-1E1B2E?style=flat-square&logo=amazonwebservices&logoColor=A5B4FC)
-![Docker](https://img.shields.io/badge/Docker-1E1B2E?style=flat-square&logo=docker&logoColor=A5B4FC)
-![Linux](https://img.shields.io/badge/Linux-1E1B2E?style=flat-square&logo=linux&logoColor=A5B4FC)
-![Pandas](https://img.shields.io/badge/Pandas-1E1B2E?style=flat-square&logo=pandas&logoColor=A5B4FC)
-![GraphQL](https://img.shields.io/badge/GraphQL-1E1B2E?style=flat-square&logo=graphql&logoColor=A5B4FC)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1E1B2E?style=flat-square&logo=tailwindcss&logoColor=A5B4FC)
+<img src="https://raw.githubusercontent.com/alkesh20011/alkesh20011/master/assets/constellation.svg" width="100%" alt="Skills as three constellations: JVM and backend, cloud and infrastructure, data and AI"/>
+
+<br/>
+<br/>
+
+<img src="https://raw.githubusercontent.com/alkesh20011/alkesh20011/master/assets/stats.svg" width="100%" alt="Commits, repositories, pull requests, stars and language mix"/>
+
+<sub>Rendered daily from the GitHub API by a workflow in this repo — no third-party services.</sub>
+
+</div>
 
 <br/>
 
