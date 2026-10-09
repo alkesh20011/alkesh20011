@@ -7,9 +7,9 @@
     </linearGradient>
   </defs>
   <rect width="1200" height="260" fill="url(#card)"/>
-  <text x="150" y="92" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="46" font-weight="300" fill="#c3b9f2">21</text>
+  <text x="150" y="92" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="46" font-weight="300" fill="#c3b9f2">23</text>
   <text x="150" y="118" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="9.5" letter-spacing="2.2" fill="#5f558f">COMMITS THIS YEAR</text>
-  <text x="450" y="92" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="46" font-weight="300" fill="#c3b9f2">5</text>
+  <text x="450" y="92" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="46" font-weight="300" fill="#c3b9f2">6</text>
   <text x="450" y="118" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="9.5" letter-spacing="2.2" fill="#5f558f">REPOSITORIES</text>
   <line x1="300" y1="58" x2="300" y2="120" stroke="#2a2547" stroke-width="1"/>
   <text x="750" y="92" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="46" font-weight="300" fill="#c3b9f2">1</text>
@@ -20,7 +20,16 @@
   <line x1="900" y1="58" x2="900" y2="120" stroke="#2a2547" stroke-width="1"/>
   <text x="80" y="152" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="9.5" letter-spacing="2.2" fill="#5f558f">LANGUAGE MIX</text>
   <rect x="80" y="168" width="1040" height="6" rx="3" fill="#1d1935"/>
-  <rect x="80.0" y="168" width="1040.0" height="6" fill="#8b7fc7" opacity="0.85"/>
+  <rect x="80.0" y="168" width="531.1" height="6" fill="#8b7fc7" opacity="0.85"/>
+  <rect x="611.1" y="168" width="417.8" height="6" fill="#a79bdb" opacity="0.85"/>
+  <rect x="1028.9" y="168" width="85.9" height="6" fill="#6f63ab" opacity="0.85"/>
+  <rect x="1114.8" y="168" width="5.2" height="6" fill="#c3b9f2" opacity="0.85"/>
   <circle cx="83" cy="205" r="3" fill="#8b7fc7" opacity="0.9"/>
-  <text x="93" y="209" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#a49ad4">Python <tspan fill="#5f558f">100%</tspan></text>
+  <text x="93" y="209" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#a49ad4">Python <tspan fill="#5f558f">51%</tspan></text>
+  <circle cx="191.4" cy="205" r="3" fill="#a79bdb" opacity="0.9"/>
+  <text x="201.4" y="209" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#a49ad4">TypeScript <tspan fill="#5f558f">40%</tspan></text>
+  <circle cx="329.4" cy="205" r="3" fill="#6f63ab" opacity="0.9"/>
+  <text x="339.4" y="209" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#a49ad4">CSS <tspan fill="#5f558f">8%</tspan></text>
+  <circle cx="415.59999999999997" cy="205" r="3" fill="#c3b9f2" opacity="0.9"/>
+  <text x="425.59999999999997" y="209" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#a49ad4">JavaScript <tspan fill="#5f558f">1%</tspan></text>
 </svg>
