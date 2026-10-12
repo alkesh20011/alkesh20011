@@ -7,9 +7,9 @@
     </linearGradient>
   </defs>
   <rect width="1200" height="260" fill="url(#card)"/>
-  <text x="150" y="92" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="46" font-weight="300" fill="#c3b9f2">24</text>
+  <text x="150" y="92" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="46" font-weight="300" fill="#c3b9f2">25</text>
   <text x="150" y="118" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="9.5" letter-spacing="2.2" fill="#5f558f">COMMITS THIS YEAR</text>
-  <text x="450" y="92" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="46" font-weight="300" fill="#c3b9f2">6</text>
+  <text x="450" y="92" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="46" font-weight="300" fill="#c3b9f2">7</text>
   <text x="450" y="118" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="9.5" letter-spacing="2.2" fill="#5f558f">REPOSITORIES</text>
   <line x1="300" y1="58" x2="300" y2="120" stroke="#2a2547" stroke-width="1"/>
   <text x="750" y="92" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="46" font-weight="300" fill="#c3b9f2">1</text>
